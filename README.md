@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./imgs/background.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/sersawy/"><img width="80%" src="./imgs/background.png" /></a></p>
 
 <br />
 I'm a student at Faculty of Electronic Engineering.
