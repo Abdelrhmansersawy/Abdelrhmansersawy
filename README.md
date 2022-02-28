@@ -3,7 +3,7 @@
 <br />
 I'm a student at Faculty of Electronic Engineering.
 <div style="display:flex;">
-**About me**
+** About me **
 
 - 💼 Compitative Programming 
 - 📈 Studying now Data Structure and Algrothims
@@ -16,8 +16,8 @@ I'm a student at Faculty of Electronic Engineering.
   <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
   <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <br />
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmansersawy&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmansersawy&show_icons=true&theme=radical)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmansersawy&layout=compact)](https://github.com/abdelrhmansersawy/github-readme-stats) | 
 <br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sersawy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmansersawy&layout=compact)](https://github.com/abdelrhmansersawy/github-readme-stats)
