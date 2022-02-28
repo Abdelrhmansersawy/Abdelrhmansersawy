@@ -5,10 +5,11 @@ I'm a student at Faculty of Electronic Engineering.
 <div style="display:flex;">
 ** About me **
 
-- 💼 Compitative Programming 
+- 💼 Compitative Programming -- [Codeforces](https://codeforces.com/profile/sersawy) | [vjudge](https://vjudge.net/user/sersawyonline) --
+
 - 📈 Studying now Data Structure and Algrothims
 - ❤️ I love sport and Games
-- 💬  Ask me about anything [here](https://www.linkedin.com/in/sersawy/)
+- 💬  Ask me about anything [here](https://www.linkedin.com/in/sersawy/) 
 
 **Languages and Tools:**  
  
