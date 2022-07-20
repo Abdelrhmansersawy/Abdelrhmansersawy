@@ -1,11 +1,11 @@
 <p align="center"><a href="https://www.linkedin.com/in/sersawy/"><img width="80%" src="./imgs/background.png" /></a></p>
 
 <br />
-I'm a student at Faculty of Electronic Engineering.
+I'm a Computer Science Engineering Student.
 <div style="display:flex;">
 ** About me **
 
-- 💼 Compitative Programmer -- [Codeforces](https://codeforces.com/profile/sersawy) | [vjudge](https://vjudge.net/user/sersawyonline) --
+- 💼 Compitative Programmer -- [Codeforces](https://codeforces.com/profile/sersawy) --
 - ❤️ I love sport and Games
 - 💬  Ask me about anything [here](https://www.linkedin.com/in/sersawy/) 
 
