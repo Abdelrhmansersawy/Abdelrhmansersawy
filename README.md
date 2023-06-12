@@ -1,11 +1,10 @@
-<p align="center"><a href="https://www.linkedin.com/in/sersawy/"><img width="80%" src="./imgs/background.png" /></a></p>
-
+<h1 align="center">Hi 👋, I'm Abdelrhman Sersawy</h1>
+<h3 align="center">I am a Computer Engineering Student who deeply intrigued by the world of competitive programming.</h3>
 <br />
-I'm a Computer Science Engineering Student.
 <div style="display:flex;">
 ** About me **
 
-- 💼 Compitative Programmer -- [Codeforces](https://codeforces.com/profile/sersawy) -- -- [Atcoder]([https://codeforces.com/profile/sersawy](https://atcoder.jp/users/sersawy)) -- [Codechef]([https://codeforces.com/profile/sersawy](https://www.codechef.com/users/sersawy)) -- [Leetcode]([https://codeforces.com/profile/sersawy](https://leetcode.com/sersawy/))
+- 💼 Compitative Programmer -- [Codeforces](https://codeforces.com/profile/sersawy)  -- [Atcoder](https://atcoder.jp/users/sersawy) -- [Codechef](https://www.codechef.com/users/sersawy) -- [Leetcode](https://leetcode.com/sersawy/)
 - 💬  Ask me about anything [here](https://www.linkedin.com/in/sersawy/) 
 
 **Languages and Tools:**  
