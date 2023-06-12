@@ -5,8 +5,7 @@ I'm a Computer Science Engineering Student.
 <div style="display:flex;">
 ** About me **
 
-- 💼 Compitative Programmer -- [Codeforces](https://codeforces.com/profile/sersawy) --
-- ❤️ I love sport and Games
+- 💼 Compitative Programmer -- [Codeforces](https://codeforces.com/profile/sersawy) -- -- [Atcoder]([https://codeforces.com/profile/sersawy](https://atcoder.jp/users/sersawy)) -- [Codechef]([https://codeforces.com/profile/sersawy](https://www.codechef.com/users/sersawy)) -- [Leetcode]([https://codeforces.com/profile/sersawy](https://leetcode.com/sersawy/))
 - 💬  Ask me about anything [here](https://www.linkedin.com/in/sersawy/) 
 
 **Languages and Tools:**  
