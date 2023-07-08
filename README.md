@@ -4,7 +4,7 @@
 <div style="display:flex;">
 ** About me **
 
-- 💼 Compitative Programmer -- [Codeforces](https://codeforces.com/profile/sersawy)  -- [Atcoder](https://atcoder.jp/users/sersawy) -- [Codechef](https://www.codechef.com/users/sersawy) -- [Leetcode](https://leetcode.com/sersawy/)
+- 💼 Compitative Programmer -- [Codeforces](https://codeforces.com/profile/sersawy)  -- [Atcoder](https://atcoder.jp/users/sersawy) -- [Codechef](https://www.codechef.com/users/sersawy)
 - 💬  Ask me about anything [here](https://www.linkedin.com/in/sersawy/) 
 
 **Languages and Tools:**  
