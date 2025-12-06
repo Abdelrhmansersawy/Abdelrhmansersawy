@@ -30,9 +30,6 @@ I'm a CSE student with backend development experience. I love solving problems, 
 <p align="center">
    <a href="https://icpc.global/ICPCID/8E71R8OCE30K"><img src="https://iili.io/HTsBUfS.png" alt="ICPC Global" width="40"/></a>&emsp; 
    <a href="https://codeforces.com/profile/sersawy"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" width="40"/></a>&emsp; 
-   <a href="https://atcoder.jp/users/sersawy"><img src="https://img.atcoder.jp/logo/atcoder/logo_transparent.png" alt="AtCoder" width="40"/></a>&emsp; 
-   <a href="https://www.codechef.com/users/sersawy"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef" width="40"/></a>&emsp; 
-   <a href="https://leetcode.com/sersawy/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="40"/></a>  
 </p>
 
 ---
