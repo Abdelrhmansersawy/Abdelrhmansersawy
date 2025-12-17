@@ -17,11 +17,11 @@ I'm a CSE student with backend development experience. I love solving problems, 
 
 ## Competitive Programming
 
-* 🥇 **ECPC Gold Medalist**.
-* Competed in the **Africa & Arab Collegiate Programming Championship (ACPC)** 2023 & 2024, ranking **22nd** and **25th** out of 100+ teams.
-* Qualified **3×** for the **Africa & Arab Collegiate Programming Championship (ACPC)** (2023–2025).
+* **ICPC World Finalist** 2026
+* 🥇**ECPC Gold Medalist**, 🥉**ACPC Bronze Medalist**.
+* Ranked **10th** at ACPC, **6th** at ECPC (2025).
+* Achieved **Master** on **Codeforces**.
 * Ranked **26th globally** in **IEEE Xtreme 17.0**.
-* Achieved **Candidate Master** on **Codeforces**.
 
 <h3 align="left"> 
 <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="10%"/> <span>My Competitive Programming Profiles</span>
