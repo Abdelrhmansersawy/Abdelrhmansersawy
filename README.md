@@ -56,7 +56,7 @@ I'm a CSE student with backend development experience. I love solving problems, 
 ---
 
 ## Open Source Contributions
-[Check out my contribution snippet on GitHub Gist:](https://gist.github.com/Abdelrhmansersawy/e91d08f8495e5119e7d10859f0d60aa2)/
+[Check out my contribution](https://gist.github.com/Abdelrhmansersawy/e91d08f8495e5119e7d10859f0d60aa2)/
 
 ---
 
