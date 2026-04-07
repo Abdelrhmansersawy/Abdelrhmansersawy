@@ -11,10 +11,3 @@ Beyond that, I’m passionate about competitive programming - ICPC World Finalis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sersawy)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrhmansersawy@gmail.com)
 
-## GitHub Stats
-
-<div align="center">  
-
-<img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=abdelrhmansersawy&theme=shadow_blue&hide_border=false">
-
-</div>
