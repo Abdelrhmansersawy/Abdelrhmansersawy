@@ -5,7 +5,7 @@
   <p>My favorite geometric artwork. It represents the harmony between symmetry, topology, and continuous transformation.</p>
 </div>
 
-I’m Abdelrhman Sersawy, a software developer and GNU/Linux enthusiast (Arch user 🙂) interested in database systems and backend engineering, especially how large-scale software works behind the scenes. I’m passionate about open source and actively contribute to projects in the PostgreSQL ecosystem (pgmoneta, pgexporter, pgagroal), as well as Checkstyle and LLVM. [(See my contributions)](https://gist.github.com/Abdelrhmansersawy/e91d08f8495e5119e7d10859f0d60aa2).
+I’m Abdelrhman Sersawy, a software developer and GNU/Linux enthusiast (Arch user 🙂) interested in database systems and backend engineering, especially how large-scale software works behind the scenes. I’m passionate about open source and actively contribute to projects in the PostgreSQL Community (pgmoneta, pgexporter, pgagroal), as well as Checkstyle and LLVM. [(See my contributions)](https://gist.github.com/Abdelrhmansersawy/e91d08f8495e5119e7d10859f0d60aa2).
 
 Beyond that, I’m passionate about competitive programming - ICPC World Finalist 2026, (ECPC) National Gold Medalist, (ACPC) Regional Bronze Medalist, and a Master on Codeforces.
 
